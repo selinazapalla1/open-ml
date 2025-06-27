@@ -1,6 +1,6 @@
 # OpenML 
 
-OpenML is a library providing implementations of common neural network algorithms in both PyTorch and NumPy (Dumpy). It includes:
+OpenML is a library providing implementations of common neural network algorithms in both PyTorch and NumPy. It includes:
 - Activation functions
 - Layer definitions
 - Attention mechanisms
