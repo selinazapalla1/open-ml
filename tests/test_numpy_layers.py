@@ -1,5 +1,5 @@
 import numpy as np
-from openml.dumpy.layers import Dense
+from openml.numpy.layers import Dense
 
 def test_dense_forward():
     np.random.seed(0)

@@ -1,5 +1,5 @@
 import numpy as np
-from openml.dumpy.optimizers import SGD
+from openml.numpy.optimizers import SGD
 
 def test_sgd_step():
     class Param:

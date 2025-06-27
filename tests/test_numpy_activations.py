@@ -1,5 +1,5 @@
 import numpy as np
-from openml.dumpy.activations import relu, sigmoid, softmax
+from openml.numpy.activations import relu, sigmoid, softmax
 
 def test_relu():
     x = np.array([-1, 0, 1])

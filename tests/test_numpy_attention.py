@@ -1,5 +1,5 @@
 import numpy as np
-from openml.dumpy.attention import scaled_dot_product_attention
+from openml.numpy.attention import scaled_dot_product_attention
 
 def test_attention_shapes():
     q = k = v = np.random.rand(2, 4, 8)

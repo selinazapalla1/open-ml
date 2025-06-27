@@ -1,5 +1,5 @@
 import numpy as np
-from openml.dumpy.losses import mse_loss
+from openml.numpy.losses import mse_loss
 
 def test_mse_loss():
     pred = np.array([1.0, 2.0])
